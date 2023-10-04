@@ -105,7 +105,7 @@ class HomeActivity extends StatelessWidget {
                     currentAccountPicture: ClipRRect(
                       borderRadius: BorderRadius.circular(40),
                       child: Image.network(
-                        "https://drive.google.com/file/d/1gOKD6S4irnZcgRJA7ahQLLzNHylk2hO-/view?usp=sharing",
+                        "images/image_me.jpg",
                       ),
                     ),
                     decoration: BoxDecoration(
